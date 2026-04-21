@@ -7,4 +7,4 @@
 
 ## Presentacion
 
-Mi nombre es Mateo Bianchi, estoy cursando el 2º año de Ingenieria en Sistemas de Informacion. Fuera de los estudios me apasiona el deporte y la astrologia.
+Mi nombre es Mateo Bianchi, estoy cursando el 2º año de Ingenieria en Sistemas de Informacion. Mi mayor pasion es el deporte, pero principalmente jugar, ver y vivir el futbol.
